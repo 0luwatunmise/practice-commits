@@ -1,1 +1,1 @@
-# practice-commits
+# Practice Commits
